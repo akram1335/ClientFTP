@@ -1,0 +1,41 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+#IPtextfieldblue {
+  -fx-background-insets: 0.0; fx-background-color: transparent, white, transparent, white;-fx-border-color:blue;-fx-border-radius:10.0;-fx-background-radius:10.0;-fx-border-width:2.0px;
+}
+#IPtextfieldgreen {
+  -fx-background-insets: 0.0; fx-background-color: transparent, white, transparent, white;-fx-border-color:green;-fx-border-radius:10.0;-fx-background-radius:10.0;-fx-border-width:2.0px;
+}
+#IPtextfieldred {
+ -fx-background-insets: 0.0; fx-background-color: transparent, white, transparent, white; -fx-border-color:red; -fx-border-radius:10.0;-fx-background-radius:10.0;-fx-border-width:2.0px;
+}
+
+#buttonlist {
+	-fx-font-weight:bold;
+	-fx-background-color:#ffad33;
+	-fx-background-radius:22.0;
+	-fx-font-size:16.0;
+	-fx-text-fill:black;
+	-fx-border-color:#ffad33;
+	-fx-border-radius:20.0;
+	-fx-border-width:3.0;
+	}
+#button {
+	-fx-font-weight:bold;
+	-fx-background-color:#4caf50;
+	-fx-background-radius:22.0;
+	-fx-font-size:16.0;
+	-fx-text-fill:white;
+	fx-border-color:#4caf50;
+	-fx-border-radius:20.0;
+	-fx-border-width:3.0;	
+}
+#buttondisconnect {
+	-fx-font-weight:bold;
+	-fx-background-color:#5f5f5f;
+	-fx-background-radius:22.0;
+	-fx-font-size:16.0;
+	-fx-text-fill:white;	
+	fx-border-color:#5f5f5f;
+	-fx-border-radius:20.0;
+	-fx-border-width:3.0;	
+}
